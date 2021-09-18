@@ -1,2 +1,2 @@
 # Devaria-project
-Devaria project has my first html5 webpages 
+este projeto foi minha primeira página web em html5 e css3
